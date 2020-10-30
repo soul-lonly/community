@@ -11,8 +11,8 @@
     <groupId>com.exampl.communtity</groupId>
     <artifactId>communtity</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>communtity</name>
-    <description>communtity</description>
+    <name>community</name>
+    <description>community</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -39,7 +39,17 @@
             <artifactId>spring-boot-devtools</artifactId>
             <optional>true</optional>
         </dependency>
-
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>4.9.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.74</version>
+        </dependency>
     </dependencies>
 
     <build>

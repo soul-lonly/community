@@ -1,4 +1,4 @@
-package com.exampl.communtity.controller;
+package com.exampl.community.controller;
 
 
 

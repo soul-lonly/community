@@ -1,7 +1,13 @@
 "# community" 
 ##资料
-http://spring.io/guides
-http://spring.io/guides/gs/serving-web-content/
-http://elasticsearch.cn/explore
+
+[spring 文档](http://spring.io/guides)
+[spring web](http://spring.io/guides/gs/serving-web-content/)
+[es](http://elasticsearch.cn/explore)
+[Github deploy key](http://developer.github.com/v3/guides/managing-deploy-keys/#deploy-keys)
+[bootstrap](http://v3.bootcss.com/getting-started/)
+[Github OAuth](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 
 ##工具
+[Git](http://git-scm.com/download)
+[Visual Paradigm](http://www.visual-paradigm.com)
